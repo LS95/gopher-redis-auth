@@ -6,20 +6,27 @@ redis生成gopher利用代码的脚本，包括认证和非认证功能，
 
 ## 示例
 
-redis.conf 设置密码为123123
+redis.conf 设置密码为123123  
+
 ![设置密码](pass.png)
 
+  
+  
 
+生成shell  
 
-生成shell
 ![生成](generateShell.png)
 
 
-curl -v  "contens"
-![利用](exp.png)
+curl -v  "contens"   
 
-查看shell
-![生成](view.png)
+![利用](exp.png)  
+
+
+查看shell  
+
+![生成](view.png)  
+
 
 ## 参考
 [Gopherus](https://github.com/tarunkant/Gopherus)
